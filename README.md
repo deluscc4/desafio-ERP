@@ -31,10 +31,10 @@ A partir do shell (linha de comando) do XAMPP, utilizando MySQL:
 );`
 
 # Executando o sistema
-O sistema conta com 6 funcionalides, todas elas são executadas passando o seguinte comando no terminal -> `php .\main.php\[nome_arquivo_funcionalidade].php`. Exemplo: `php .\main.php\registrar_material.php`
+O sistema conta com 6 funcionalidades, todas elas são executadas passando o seguinte comando no terminal -> `php .\main.php\[nome_arquivo_funcionalidade].php`. Exemplo: `php .\main.php\registrar_material.php`
 
 ## 1. Registrar material:
-   Essa funcionalidade permite você registrar o material que será utilizado para a produção de produtos nas ordens de serviço. Será solicitado o nome e a quantidade do material que você deseja registrar no sistema.
+   Essa funcionalidade permite você registrar o material que será utilizado para a produção de produtos nas ordens de serviço. Será solicitado o nome e a quantidade do material que você deseja registrar no sistema. Caso o nome do material já esteja registrado, o valor colocado será incrementado no sistema.
    
    ![image](https://github.com/deluscc4/desafio-ERP/assets/122245816/6acfb99d-c978-4ec7-a842-b0d40091de1f)
 
